@@ -16,10 +16,10 @@ Supervisor: prof. Ing. Tomáš Kliegr Ph.D.
 
 **Selected projects**
 
-- [llm-cutting-optimizer](https://github.com/janvrzal/llm-cutting-optimizer) —
+- [llm cutting optimizer](https://github.com/janvrzal/llm-cutting-optimizer) —
   end-to-end pipeline turning natural-language material orders into validated,
   structured records for a cutting-stock solver. Streamlit, Pydantic, Gemini API.
-- Student dropout prediction — full ML workflow from EDA to evaluated classifier,
+- [Student dropout prediction](https://github.com/Student-dropout-ML/student-dropout-ml) — full ML workflow from EDA to evaluated classifier,
   with explicit documentation of data-quality issues found in preprocessing.
 - Strategic decision-support dashboard — Power BI on unstructured CSV exports
   for a competitive business simulation.
